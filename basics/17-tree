@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir -g.{welcome/,welcome/to/,welcome/to/school}II
+dir .{welcome/,welcome/to/,welcome/to/school}II
