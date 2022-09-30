@@ -1,2 +1,2 @@
 #!/bin/bash
-mv files *S /tmp/u
+mv files *[A-Z] /tmp/u
