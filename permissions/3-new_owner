@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -l betty
+chown [hello] [betty]
