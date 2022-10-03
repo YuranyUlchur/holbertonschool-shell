@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod u+gramo-x o=r-- hello
+chmod u+group+x  x-r-- hello
