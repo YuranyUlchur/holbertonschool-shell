@@ -1,2 +1,2 @@
 #!/bin/bash
-tr s/A/Z/g s/c/e/g
+s/A/Z/g 
