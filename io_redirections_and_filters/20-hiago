@@ -1,2 +1,2 @@
 #!/bin/bash
-sed c C
+sed s/c/C//g
