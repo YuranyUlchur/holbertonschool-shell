@@ -1,2 +1,2 @@
 #!/bin/bash
-s/A/Z/g 
+tr 'A c Z E' 
