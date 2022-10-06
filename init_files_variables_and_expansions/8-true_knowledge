@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $((120 + 8)) printenv TRUEKNOWLEDGE '/n'
+export=TRUEKNOWLEDGE  $((120 + 8))
