@@ -1,2 +1,2 @@
 #!/bin/bash
-echo local BEST = School
+set BEST = School
