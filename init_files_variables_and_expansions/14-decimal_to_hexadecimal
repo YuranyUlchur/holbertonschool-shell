@@ -1,2 +1,2 @@
-#!/bn/bas
+#!/bn/bash
 printf '%x\n' $DECIMAL
